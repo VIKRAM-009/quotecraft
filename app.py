@@ -1077,3 +1077,4 @@ if __name__ == "__main__":
     print(f"Starting QuoteCraft on http://0.0.0.0:{port}")
     print(f"Using local Ollama model: {TEXT_MODEL} ({OLLAMA_URL})")
     app.run(host="0.0.0.0", port=port, debug=True)
+

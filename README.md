@@ -121,3 +121,4 @@ For a micro-business or freelancer tool, open-weight models are not just an alte
 ## 📄 License
 
 MIT License. Built for Hacktoberfest 2026 (DEV Challenge Week 2: "Side Hustle").
+
